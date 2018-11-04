@@ -1,2 +1,2 @@
-# davide-nastri-resume
-Davide Nastri is an Automation Engineer and this is his personal resume in open document and PDF format
+# Davide Nastri
+> I am an Automation Engineer and this is my personal resume in open document and PDF format.
