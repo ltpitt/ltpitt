@@ -1,7 +1,8 @@
 # I am Davide Nastri
 Welcome to my GitHub,   
 
-I am currently working as a Backend Developer (Java / Maven / Spring), I hope you can find something useful or interesting around here.  
+I am currently working as a Backend Developer (Java / Maven / Spring) but I love using any technology.  
+In my repos you will find mainly Python / Go / Javascript / BASH / C++ projects and experiments, I hope you can find something useful or interesting around here.  
  
 Happy hacking :) 
 
