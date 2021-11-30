@@ -1,4 +1,4 @@
-# I am Davide Nastri
+# Hi, my name is Davide Nastri!
 Welcome to my GitHub,   
 
 I am currently working as a Backend Developer (Java / Maven / Spring) but I love using any technology.  
