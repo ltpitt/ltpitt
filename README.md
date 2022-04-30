@@ -5,6 +5,7 @@ I am currently working as a Backend Developer (Java / Maven / Spring) but I love
 In my repos you will find mainly Java / Python / Javascript / BASH / C++ / Lua / Go projects and experiments.  
 
 I love automation and GitHub actions, I hope you can find something useful or interesting around here.  
+Feel free to contribute if you feel like it!
  
 Happy hacking :) 
 
