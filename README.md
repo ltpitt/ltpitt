@@ -2,11 +2,10 @@
 <h3 align="center">A passionate software developer currently living in the Netherlands</h3>
 Welcome to my GitHub,   
 
-I am currently working as a Backend Developer (Java / Maven / Spring) but I love using any technology.  
+I am currently working as a Backend Developer (Java / Maven / Spring).  
 In my repos you will find mainly Java / Python / Javascript / BASH / C++ / Lua / Go projects and experiments.  
 
-I love automation and GitHub actions, I hope you can find something useful or interesting around here.  
-Feel free to contribute if you feel like it!
+I also love automation and GitHub actions, I hope you can find something useful or interesting around here.  
  
 Happy hacking :) 
 
