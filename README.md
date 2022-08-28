@@ -13,7 +13,7 @@ Happy hacking :)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ltpitt" alt="ltpitt" /></a> </p>
 
-- 🔭 I’m currently working on **Java Spring / Java Spring Integration**
+- 🔭 I’m currently working on **Java Spring Boot / Java Spring Integration**
 
 - 🌱 I’m currently learning **React**
 
