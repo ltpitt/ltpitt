@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, my name is Davide Nastri</h1>
-<h3 align="center">A passionate software developer currently living in the Netherlands</h3>
+<h1 align="center">Hi 👋, my name is Davide Nastri.</h1>
+<h3 align="center">I am a passionate software developer, happily living in the Netherlands</h3>
 Welcome to my GitHub,   
 
 I am currently working as a Backend Developer (Java / Maven / Spring Boot).  
