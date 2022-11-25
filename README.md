@@ -5,7 +5,7 @@ Welcome to my GitHub,
 I am currently working as a Backend Developer (Java / Maven / Spring Boot).  
 In my repos you will find Java / Python / Javascript / BASH / C++ / Lua / Go projects, exercises and experiments.  
 
-I also love automation and GitHub actions, I hope you can find something useful or interesting around here.  
+I also love CI / CD, automation and GitHub actions, I hope you can find something useful or interesting around here.  
  
 Happy hacking :) 
 
