@@ -11,7 +11,7 @@ Happy hacking :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltpitt&label=Profile%20views&color=0e75b6&style=flat" alt="ltpitt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ltpitt" alt="ltpitt" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ltpitt)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Java Spring Boot / Java Spring Integration**
 
