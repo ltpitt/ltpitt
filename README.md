@@ -11,8 +11,6 @@ Happy hacking :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltpitt&label=Profile%20views&color=0e75b6&style=flat" alt="ltpitt" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ltpitt)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I’m currently working with **Java / Python**
 
 - 🤖 I’m currently fiddling quite a bit with **GitHub Copilot Coding Agent**
