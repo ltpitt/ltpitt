@@ -13,9 +13,9 @@ Happy hacking :)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ltpitt)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Java Spring Boot / Java Spring Integration**
+- 🔭 I’m currently working with **Java / Python**
 
-- 🌱 I’m currently fiddling quite a bit with **GitHub Copilot Coding Agent**
+- 🤖 I’m currently fiddling quite a bit with **GitHub Copilot Coding Agent**
 
 - 📫 How to reach me **print(''.join([chr(x) for x in [100,110,97,115,116,114,105,64,103,109,97,105,108,46,99,111,109]]))**
 
